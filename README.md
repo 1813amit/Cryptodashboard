@@ -1,11 +1,11 @@
 # 📈 Cryptocurrency Dashboard
 
-https://tangerine-zuccutto-ff8ec2.netlify.app/
+https://glittery-sopapillas-b56671.netlify.app/
 
 An interactive cryptocurrency dashboard displaying real-time market data using the CoinGecko API. Built with React, Tailwind CSS, and Recharts.
 
 ## ✨ Live Demo
-https://tangerine-zuccutto-ff8ec2.netlify.app/
+https://glittery-sopapillas-b56671.netlify.app/
 
 ## 🎯 Features
 
